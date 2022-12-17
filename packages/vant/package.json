@@ -1,7 +1,7 @@
 {
-  "name": "yss-vant",
-  "version": "4.0.3",
-  "description": "yss UI Components base on vant",
+  "name": "atuxant",
+  "version": "0.0.1",
+  "description": "yss UI Components base on vant4",
   "main": "lib/vant.cjs.js",
   "module": "es/index.mjs",
   "style": "lib/index.css",
