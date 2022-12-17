@@ -1,7 +1,7 @@
 {
-  "name": "vant",
+  "name": "yss-vant",
   "version": "4.0.3",
-  "description": "Mobile UI Components built on Vue",
+  "description": "yss UI Components base on vant",
   "main": "lib/vant.cjs.js",
   "module": "es/index.mjs",
   "style": "lib/index.css",
@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vant-ui/vant.git",
+    "url": "https://github.com/atuxp/vant.git",
     "directory": "packages/vant"
   },
-  "bugs": "https://github.com/vant-ui/vant/issues",
+  "bugs": "https://github.com/atuxp/vant/issues",
   "author": "chenjiahan",
   "license": "MIT",
   "keywords": [
